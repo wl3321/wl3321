@@ -44,6 +44,7 @@ body {
 
 .content-one {
 	height: 48px;
+	vertical-align: top;
 }
 
 .content-one span {
